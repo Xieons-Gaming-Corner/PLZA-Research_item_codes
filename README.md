@@ -1,6 +1,8 @@
 # Legends ZA Item Codes
 These files represent individual Legends ZA item codes for use with cheat tools on Switch CFW. I have been told these are compatible with emulation tools as well, however I cannot confirm.
 
+I have manually tested all of these codes to confirm they do not cause save corruption.
+
 ## How to Use
 The provided files should not be used as is unless you only need a very specific set of items and only those items.
 
