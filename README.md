@@ -44,7 +44,7 @@ If you are using Edizon overlay to manage your cheats, you can put cheats into s
 The following will put the '990x Rare Candy' and '990x Exp. Candy XL' codes into a sub folder called "XP/Leveling Items" in the cheat menu.
 
 ## Credits
-[Stoned](https://gbatemp.net/members/stoned.347253/) - Created the original known-wgood item codes that these item codes are based on.
+[Stoned](https://gbatemp.net/members/stoned.347253/) - Created the original known-good item codes that these item codes are based on.
 
 All further work is my own. I took the full list of Gen9 item indexes and after adjusting the index to align with what we know of Legends ZA, I created a full list of codes for each of those indexes. I then tested the codes of items known to be in ZA and those suspected to be in the game, verifying that the codes added the item as described and that the codes did not corrupt the save file after use, regardless of prior item acquisition.
 Following this, I then generated a further 500 indexes after the known end of the Gen9 item list, created codes for those 500 indexes and tested each one in game to confirm the item IDs for the items newly added in Legends ZA. As a result all inventory items newly added in ZA should be represented in the codes above.
