@@ -1,3 +1,5 @@
+[Credit to Stoned on gbatemp for the original code structure]
+
 [--SectionStart:XP/Leveling Items--]
 00000000 00000000 00000000
 
