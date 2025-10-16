@@ -215,7 +215,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | TM005 | 014D |
 | TM006 | 014C |
 | TM007 | 014E |
-| TM00 | 0191 |
+| TM008 | 0191 |
 | TM009 | 0151 |
 | TM010 | 0167 |
 | TM011 | 0150 |
@@ -225,7 +225,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | TM015 | 019E |
 | TM016 | 0158 |
 | TM017 | 0159 |
-| TM01 | 02B5 |
+| TM018 | 02B5 |
 | TM019 | 015D |
 | TM020 | 016A |
 | TM021 | 019D |
@@ -235,7 +235,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | TM025 | 0163 |
 | TM026 | 017D |
 | TM027 | 018E |
-| TM02 | 0164 |
+| TM028 | 0164 |
 | TM029 | 014F |
 | TM030 | 0193 |
 | TM031 | 0169 |
@@ -245,7 +245,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | TM035 | 0877 |
 | TM036 | 016F |
 | TM037 | 0871 |
-| TM03 | 016E |
+| TM038 | 016E |
 | TM039 | 0172 |
 | TM040 | 0173 |
 | TM041 | 0187 |
@@ -255,7 +255,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | TM045 | 0178 |
 | TM046 | 0153 |
 | TM047 | 015A |
-| TM04 | 016D |
+| TM048 | 016D |
 | TM049 | 017E |
 | TM050 | 017A |
 | TM051 | 015C |
@@ -265,7 +265,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | TM055 | 018C |
 | TM056 | 0184 |
 | TM057 | 0185 |
-| TM05 | 0175 |
+| TM058 | 0175 |
 | TM059 | 015B |
 | TM060 | 0188 |
 | TM061 | 0189 |
@@ -275,7 +275,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | TM065 | 018F |
 | TM066 | 0190 |
 | TM067 | 0160 |
-| TM06 | 0192 |
+| TM068 | 0192 |
 | TM069 | 0162 |
 | TM070 | 0194 |
 | TM071 | 0195 |
@@ -285,7 +285,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | TM075 | 0177 |
 | TM076 | 019B |
 | TM077 | 019C |
-| TM07 | 018A |
+| TM078 | 018A |
 | TM079 | 0181 |
 | TM080 | 019F |
 | TM081 | 018D |
@@ -295,7 +295,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | TM085 | 01A4 |
 | TM086 | 026B |
 | TM087 | 0199 |
-| TM08 | 026D |
+| TM088 | 026D |
 | TM089 | 02B3 |
 | TM090 | 02B4 |
 | TM091 | 0875 |
@@ -305,7 +305,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | TM095 | 0874 |
 | TM096 | 018B |
 | TM097 | 0876 |
-| TM09 | 0171 |
+| TM098 | 0171 |
 | TM099 | 0878 |
 | TM100 | 0879 |
 | TM101 | 0197 |
