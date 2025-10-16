@@ -23,7 +23,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | Ice Heal | 0015 |
 | Awakening | 0016 |
 | Full Heal | 001C |
-| Lumoise Galette | 2C5C |
+| Lumoise Galette | 02C5 |
 
 ## Poke Balls
 
