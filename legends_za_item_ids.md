@@ -212,6 +212,7 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | TM001 | 0149 |
 | TM002 | 014A |
 | TM003 | 014B |
+| TM004 | 026C |
 | TM005 | 014D |
 | TM006 | 014C |
 | TM007 | 014E |
