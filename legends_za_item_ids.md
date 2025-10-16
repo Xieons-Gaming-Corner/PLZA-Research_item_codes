@@ -196,6 +196,9 @@ The following is a semi-complete list of items available in Legends ZA along wit
 | Assault Vest | 0281 |
 | Whipped Dream | 0287 |
 | Sachet | 0288 |
+| Old Amber | 0068 |
+| Jaw Fossil | 02C7 |
+| Sail Fossil | 02C8|
 | Bottle Cap | 031C |
 | Gold Bottle Cap | 031D |
 | Mega Shard | 0A3B |
