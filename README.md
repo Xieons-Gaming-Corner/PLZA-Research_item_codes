@@ -1,7 +1,7 @@
 # Legends ZA Item Codes
 These files represent individual Legends ZA item codes for use with cheat tools on Switch CFW. I have been told these are compatible with emulation tools as well, however I cannot confirm.
 
-I have manually tested all of these codes to confirm they do not cause save corruption.
+These codes can be used even if you have not found the item in question. We now have a better understanding of the internal inventory data, and as such these codes have been built to avoid inventory corruption in saves. Furthermore, I have tested each of these codes myself on switch hardware and can confirm they do not cause save corruption.
 
 ## How to Use
 The provided files should not be used as is unless you only need a very specific set of items and only those items.
@@ -24,18 +24,12 @@ If you are using Edizon overlay to manage your cheats, you can put cheats into s
 [990x Rare Candy]
 580F0000 041F0A60
 780F0000 00000338
-640F0000 00000008 00000002
-580F0000 041F0A60
-780F0000 0000033C
-640F0000 00000008 000003DE
+680F0000 000003DE 00000002
 
 [990x Exp. Candy XL]
 580F0000 041F0A60
 780F0000 00004698
-640F0000 00000008 00000002
-580F0000 041F0A60
-780F0000 0000469C
-640F0000 00000008 000003DE
+680F0000 000003DE 00000002
 
 [--SectionEnd:XP/Leveling Items--]
 00000000 00000000 00000000
@@ -46,8 +40,9 @@ The following will put the '990x Rare Candy' and '990x Exp. Candy XL' codes into
 ## Credits
 [Stoned](https://gbatemp.net/members/stoned.347253/) - Created the original known-good item codes that these item codes are based on.
 
-All further work is my own. I took the full list of Gen9 item indexes and after adjusting the index to align with what we know of Legends ZA, I created a full list of codes for each of those indexes. I then tested the codes of items known to be in ZA and those suspected to be in the game, verifying that the codes added the item as described and that the codes did not corrupt the save file after use, regardless of prior item acquisition.
-Following this, I then generated a further 500 indexes after the known end of the Gen9 item list, created codes for those 500 indexes and tested each one in game to confirm the item IDs for the items newly added in Legends ZA. As a result all inventory items newly added in ZA should be represented in the codes above.
-Lastly, I manually tested each TM index to ensure the names of the codes matched the given TM, as the Gen9 TM numbers do not line up with ZA TM numbers based on indexes.
+[dsrules](https://gbatemp.net/members/dsrules.31620/) - Provided the correct values for each category and provided the condensed code format.
 
+[azalea_](https://gbatemp.net/members/azalea_.771689/) - Provided an item list dumped directly from game files. This list has been used to verify that the item codes in this repo represent a complete collection of all items currently available in Legends ZA (as of version 1.0.1)
+
+## Distribution
 I am fine with these codes being posted elsewhere, however I ask that if you do so, please credit me (envyUK or entropiccodes) and/or link back to this repository.
