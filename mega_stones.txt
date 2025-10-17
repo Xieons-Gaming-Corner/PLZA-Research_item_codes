@@ -1,4 +1,4 @@
-[Credit to Stoned on gbatemp for the original code structure]
+[Credit to dsrules on gbatemp for code structure]
 
 [--SectionStart:Mega Stones--]
 00000000 00000000 00000000
