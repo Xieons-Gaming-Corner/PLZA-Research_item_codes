@@ -786,3 +786,9 @@ Use these codes alongside the "Always Encounter Pokemon" code found here: https:
 
 [Encounter Mewtwo]
 040A0000 02FC7FF0 00000096
+
+[Encounter Hoopa]
+040A0000 02FC7FF0 000002D0
+
+[Encounter Volcanion]
+040A0000 02FC7FF0 000002D1
