@@ -1,3 +1,5 @@
+Use these codes alongside the "Always Encounter Pokemon" code found here: https://gbatemp.net/threads/pokemon-legends-z-a-cheat-database.675579/
+
 [Encounter Chikorita]
 040A0000 02FC7FF0 00000098
 
