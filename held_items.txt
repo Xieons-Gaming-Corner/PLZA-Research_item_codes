@@ -1,8 +1,5 @@
 [Credit to dsrules on gbatemp for code structure]
 
-[--SectionStart:Held Items--]
-00000000 00000000 00000000
-
 [990x White Herb]
 580F0000 041F0A60
 780F0000 00000D78
@@ -237,6 +234,3 @@
 580F0000 041F0A60
 780F0000 00002888
 680F0000 000003DE 00000002
-
-[--SectionEnd:Held Items--]
-00000000 00000000 00000000

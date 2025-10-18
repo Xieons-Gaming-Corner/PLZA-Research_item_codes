@@ -1,8 +1,5 @@
 [Credit to dsrules on gbatemp for code structure]
 
-[--SectionStart:Evolution Items--]
-00000000 00000000 00000000
-
 [990x Sun Stone]
 580F0000 041F0A60
 780F0000 00000518
@@ -62,6 +59,3 @@
 580F0000 041F0A60
 780F0000 00006398
 680F0000 000003DE 00000002
-
-[--SectionEnd:Evolution Items--]
-00000000 00000000 00000000

@@ -1,8 +1,5 @@
 [Credit to dsrules on gbatemp for code structure]
 
-[--SectionStart:Medicine--]
-00000000 00000000 00000000
-
 [990x Potion]
 580F0000 041F0A60
 780F0000 00000128
@@ -92,6 +89,3 @@
 580F0000 041F0A60
 780F0000 00002C58
 680F0000 000003DE 00000000
-
-[--SectionEnd:Medicine--]
-00000000 00000000 00000000

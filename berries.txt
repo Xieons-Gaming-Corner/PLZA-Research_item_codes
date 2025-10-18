@@ -1,8 +1,5 @@
 [Credit to dsrules on gbatemp for code structure]
 
-[--SectionStart:Berries--]
-00000000 00000000 00000000
-
 [990x Cheri Berry]
 580F0000 041F0A60
 780F0000 00000968
@@ -167,6 +164,3 @@
 580F0000 041F0A60
 780F0000 00002AF8
 680F0000 000003DE 00000005
-
-[--SectionEnd:Berries--]
-00000000 00000000 00000000

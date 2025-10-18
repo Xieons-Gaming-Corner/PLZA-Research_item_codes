@@ -1,8 +1,5 @@
 [Credit to dsrules on gbatemp for code structure]
 
-[--SectionStart:XP/Leveling Items--]
-00000000 00000000 00000000
-
 [990x Rare Candy]
 580F0000 041F0A60
 780F0000 00000338
@@ -32,6 +29,3 @@
 580F0000 041F0A60
 780F0000 00004698
 680F0000 000003DE 00000002
-
-[--SectionEnd:XP/Leveling Items--]
-00000000 00000000 00000000

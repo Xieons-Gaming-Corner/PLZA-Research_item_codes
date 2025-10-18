@@ -1,8 +1,5 @@
 [Credit to dsrules on gbatemp for code structure]
 
-[--SectionStart:Remove Key Items--]
-00000000 00000000 00000000
-
 [Remove Shiny Charm]
 580F0000 041F0A60
 780F0000 00002798
@@ -152,6 +149,3 @@
 580F0000 041F0A60
 780F0000 0000A4B8
 680F0000 00000000 00000004
-
-[--SectionEnd:Remove Key Items--]
-00000000 00000000 00000000

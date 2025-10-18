@@ -1,8 +1,5 @@
 [Credit to dsrules on gbatemp for code structure]
 
-[--SectionStart:Other Items--]
-00000000 00000000 00000000
-
 [990x Bottle Cap]
 580F0000 041F0A60
 780F0000 000031C8
@@ -27,6 +24,3 @@
 580F0000 041F0A60
 780F0000 00009FF8
 680F0000 000003DE 00000002
-
-[--SectionEnd:Other Items--]
-00000000 00000000 00000000

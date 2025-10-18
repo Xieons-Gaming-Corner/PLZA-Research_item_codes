@@ -1,8 +1,5 @@
 [Credit to dsrules on gbatemp for code structure]
 
-[--SectionStart:Fossils--]
-00000000 00000000 00000000
-
 [990x Old Amber]
 580F0000 041F0A60
 780F0000 00000688
@@ -17,6 +14,3 @@
 580F0000 041F0A60
 780F0000 00002C88
 680F0000 000003DE 00000002
-
-[--SectionEnd:Fossils--]
-00000000 00000000 00000000
