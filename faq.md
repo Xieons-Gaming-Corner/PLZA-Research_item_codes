@@ -13,7 +13,7 @@ Legends ZA has a specific method of handling and storing inventory data which ea
 
 ## 4 - My save got corrupted, can you help me?
 Backup your save and run it through the PLZA Recovery Tool here: https://pl.azalea.sh/
-Credits to @azalea-w for their amazing work on this.
+Credits to [@azalea-w](https://github.com/azalea-w) for their amazing work on this.
 
 ## 5 - How do I use the item codes?
 These instructions are for those running Atmosphere CFW on Switch hardware with Tesla/UltraHand with the EdiZon overlay.
